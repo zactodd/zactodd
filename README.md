@@ -1,4 +1,6 @@
-### Hi there 👋
+[![zactodd github stats](https://github-readme-stats.vercel.app/api?username=zactodd&theme=blue-green)](https://github.com/zactodd/github-readme-stats)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=zactodd&theme=blue-green)
 
 <!--
 **zactodd/zactodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

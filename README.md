@@ -2,6 +2,10 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=zactodd)
 
+[![Linkedin: zactodd](https://img.shields.io/badge/-zactodd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachary-todd-5aab9b118/)](https://www.linkedin.com/in/zachary-todd-5aab9b118/)
+[![GitHub zactodd](https://img.shields.io/github/followers/zactodd?label=follow&style=social)](https://github.com/zactodd)  
+
+
 <!--
 **zactodd/zactodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
